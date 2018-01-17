@@ -5,9 +5,3 @@ Notes / Issues
 - Unable to figure out how to make the footer stick to the bottom of the page
 
 - Positioning of elements in "Contact me" box
-
-- Add sub-rows/columns in portfolio page
-
-- Add css animations
-
-- Write bio for homepage
